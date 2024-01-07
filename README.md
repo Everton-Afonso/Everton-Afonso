@@ -24,13 +24,6 @@
   </h3>
 </div>
 
-<div align="center" >
-  <div  align="center" style="margin:20px 0px;">
-    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Everton-Afonso&theme=radical" />
-    <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton-Afonso&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical&layout=compact" />
-  </div>
-</div>
-
 ## Contacts:
 
  <div> 
@@ -42,4 +35,13 @@
 
 <div align="center" style="margin:40px 0px;">
   <img align="center"  src="./images/dino_rounded.gif" />
+</div>
+
+<hr></hr>
+
+<div align="center" >
+  <div  align="center" style="margin:20px 0px;">
+    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Everton-Afonso&theme=radical" />
+    <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton-Afonso&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical&layout=compact" />
+  </div>
 </div>
