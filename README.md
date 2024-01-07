@@ -18,22 +18,19 @@
   <hr></hr>
 </div>
 
-<div font='16px'>
+<div font='16px' style="margin-bottom:20px;">
   <h3 align="center" style="color:#36BCF7;">
   ⚡  Hello, a developer passionate about turning ideas into code. I'm excited to collaborate on innovative projects, bringing my passion and skills to create exceptional experiences.. ⚡
   </h3>
 </div>
 
-<div align="center" >
-  <div  align="center" style="margin:20px 0px;">
-    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Everton-Afonso&theme=radical&mode=weekly" />
-    <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton-Afonso&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical&layout=compact" />
-  </div>
-</div>
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Everton-Afonso&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton-Afonso&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical&layout=compact" />
+
 
 ## Contacts:
 
- <div> 
+ <div style="margin-top:20px;"> 
   <a href="https://www.instagram.com/everton_afonso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/everton-otavio-b5b035191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
